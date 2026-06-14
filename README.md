@@ -23,6 +23,8 @@ We, the people, establish this Constitution to secure:
 
 The Republic exists to protect liberty, uphold justice, cultivate virtue, develop capability, preserve sovereignty, and improve the well-being of present and future generations.
 
+Authority shall rise from demonstrated service, competence, and trust. Resources shall remain as close as practical to the citizens who generate them. Decisions shall remain as close as practical to the citizens affected by them.
+
 ---
 
 # ARTICLE I — FOUNDATIONAL PRINCIPLES
@@ -368,6 +370,42 @@ The Chief Executive Officer does not rule over local governments but ensures law
 
 ---
 
+# ARTICLE IV-A — NEGATIVE PARLIAMENTARISM
+
+## Section 1. Formation of Government
+
+The Chief Executive Officer elected by the Regional Directors shall assume office unless a majority of the Chamber of Communities formally objects within a prescribed period.
+
+## Section 2. Confirmation by Non-Opposition
+
+Active approval is not required.
+
+The absence of majority opposition constitutes confirmation.
+
+## Section 3. Purpose
+
+Government formation shall prioritize continuity and stability while preserving democratic accountability.
+
+## Section 4. Vote of No Confidence
+
+The Chamber of Communities may remove the Chief Executive Officer through a vote of no confidence.
+
+Such votes must:
+
+- State reasons
+
+- Be recorded publicly
+
+- Be subject to constitutional procedures
+
+## Section 5. Constructive Removal
+
+Whenever practical, a vote removing a Chief Executive Officer shall simultaneously identify a successor or interim CEO.
+
+The Republic shall avoid leadership vacuums.
+
+---
+
 # ARTICLE V — REPRESENTATIVE ASSEMBLY
 
 Representation shall be composed of two chambers.
@@ -663,6 +701,54 @@ The Ombudsman may investigate any public institution.
 Citizens shall possess simple, affordable, and rapid mechanisms for challenging government actions.
 
 Government exists to serve citizens, not burden them.
+
+---
+
+# ARTICLE VII-B — OMBUDSMAN OF THE REPUBLIC
+
+## Section 1. Purpose
+
+The Ombudsman protects citizens from administrative abuse.
+
+## Section 2. Powers
+
+The Ombudsman may:
+
+- Investigate public agencies
+
+- Review administrative decisions
+
+- Examine Trust Assessments
+
+- Review public records
+
+- Compel explanations
+
+- Recommend corrective actions
+
+## Section 3. Accessibility
+
+Every citizen shall possess free access to Ombudsman services.
+
+No filing fees shall be imposed.
+
+## Section 4. Speed
+
+Complaints shall be resolved within constitutionally defined timelines.
+
+Administrative justice delayed is administrative justice denied.
+
+## Section 5. Independence
+
+The Ombudsman shall be independent of:
+
+- The Executive Stewardship
+
+- The Legislature
+
+- Political parties
+
+- Professional guilds
 
 ---
 
@@ -1078,6 +1164,48 @@ The Republic shall maintain:
 - Public knowledge repositories
 
 Evidence shall remain available for public scrutiny.
+
+---
+
+# ARTICLE XIX-A — NATIONAL FORESIGHT SYSTEM
+
+(Complementing the Committee for the Future)
+
+## Section 1. Strategic Horizon Reviews
+
+Every five years the Republic shall publish:
+
+- 20-year outlook
+
+- 30-year outlook
+
+- 50-year outlook
+
+## Section 2. National Risk Register
+
+The Republic shall maintain a continuously updated register of strategic risks, including:
+
+- Climate risks
+
+- Economic risks
+
+- Technological disruption
+
+- Demographic change
+
+- Infrastructure vulnerabilities
+
+- Food security risks
+
+- Water security risks
+
+- National security risks
+
+## Section 3. Public Availability
+
+Risk assessments and foresight reports shall remain publicly accessible.
+
+Citizens have the right to understand foreseeable national challenges.
 
 ---
 
