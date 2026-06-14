@@ -76,6 +76,82 @@ All public actions, expenditures, contracts, and decisions shall be presumed pub
 
 ---
 
+# ARTICLE I-A — NATIONAL COHESION AND SOCIAL TRUST
+
+## Section 1. Trust as a National Asset
+
+The Republic recognizes social trust as a strategic national resource.
+
+Public institutions shall be designed to:
+
+- Promote honesty
+
+- Encourage cooperation
+
+- Reward reliability
+
+- Reduce unnecessary complexity
+
+- Strengthen confidence between citizens and institutions
+
+No public policy shall knowingly undermine long-term social trust for short-term political gain.
+
+---
+
+# ARTICLE I-B — INTERGENERATIONAL STEWARDSHIP
+
+## Section 1. Future Generations
+
+Public officials serve both present and future citizens.
+
+No policy shall knowingly transfer unreasonable costs, debts, environmental damage, or institutional deterioration to future generations.
+
+---
+
+## Section 2. Long-Term Impact Review
+
+Major legislation shall include:
+
+- 10-year impact assessment
+
+- 30-year impact assessment
+
+- Fiscal sustainability assessment
+
+National decisions shall be evaluated not only by immediate benefits but by long-term consequences.
+
+---
+
+# ARTICLE I-C — EVIDENCE-BASED GOVERNANCE
+
+## Section 1. Policy Evaluation
+
+Government decisions shall be informed by:
+
+- Evidence
+
+- Measurable outcomes
+
+- Independent analysis
+
+Policy shall not be justified solely by popularity, ideology, or tradition.
+
+---
+
+## Section 2. Policy Review
+
+Major laws shall contain:
+
+- Objectives
+
+- Performance indicators
+
+- Review schedules
+
+Programs failing to achieve their stated objectives shall be revised, replaced, or terminated.
+
+---
+
 # ARTICLE II — CITIZENSHIP
 
 Citizens possess:
@@ -338,6 +414,42 @@ Due process protections apply.
 
 ---
 
+# ARTICLE VI-A — CIVIC INITIATIVE AND REFERENDUM
+
+## Section 1. Citizen Initiative
+
+Citizens may propose legislation through verified petitions.
+
+The legislature shall formally consider such proposals.
+
+---
+
+## Section 2. Constitutional Initiative
+
+Citizens may propose constitutional amendments through a higher petition threshold.
+
+Such amendments require:
+
+- Judicial review
+
+- National referendum
+
+---
+
+## Section 3. Referendum
+
+National referendums may be required for:
+
+- Constitutional amendments
+
+- Major sovereignty questions
+
+- Significant structural reforms
+
+Referendums shall inform rather than replace representative government.
+
+---
+
 # ARTICLE VII — CHARACTER, COMPETENCE AND PUBLIC TRUST COMMISSION
 
 An independent Constitutional Commission shall:
@@ -354,6 +466,30 @@ An independent Constitutional Commission shall:
     
 
 No political body may override factual findings without judicial review.
+
+---
+
+# ARTICLE VII-A — INDEPENDENT PUBLIC OVERSIGHT
+
+## Section 1. National Ombudsman
+
+An independent Ombudsman shall:
+
+- Investigate abuse of authority
+
+- Review administrative conduct
+
+- Protect citizen rights
+
+The Ombudsman may investigate any public institution.
+
+---
+
+## Section 2. Administrative Justice
+
+Citizens shall possess simple, affordable, and rapid mechanisms for challenging government actions.
+
+Government exists to serve citizens, not burden them.
 
 ---
 
@@ -376,20 +512,41 @@ Judges shall be selected through merit-based processes.
 
 ---
 
-# ARTICLE IX — CIVIL SERVICE
+# ARTICLE IX — PROFESSIONAL PUBLIC SERVICE
 
-Public administration shall operate on merit.
+## Section 1. Public Service Excellence
 
-Appointments shall be based upon:
+The Republic shall cultivate a highly capable and politically neutral professional service.
 
-- Capability
-    
+Appointments shall prioritize:
+
 - Character
-    
-- Performance
-    
 
-Political loyalty shall not constitute qualification.
+- Competence
+
+- Performance
+
+- Leadership potential
+
+---
+
+## Section 2. Leadership Development
+
+Future public leaders shall be systematically identified, trained, and evaluated.
+
+The Republic shall maintain a permanent leadership development system for:
+
+- Administrators
+
+- Technical experts
+
+- Executives
+
+- Judges
+
+- Diplomats
+
+Public leadership shall be cultivated intentionally rather than discovered accidentally.
 
 ---
 
@@ -420,6 +577,31 @@ Extraction shall require:
     
 - Domestic value creation
     
+---
+
+# ARTICLE X-A — NATIONAL WEALTH AND STRATEGIC RESERVES
+
+## Section 1. National Resilience Fund
+
+Revenue from strategic national assets shall be allocated in part to a National Resilience Fund.
+
+The Fund shall:
+
+- Preserve wealth across generations
+
+- Stabilize economic shocks
+
+- Finance strategic investments
+
+---
+
+## Section 2. Resource Windfalls
+
+Temporary resource revenues shall not finance permanent spending obligations.
+
+Extraordinary income shall be treated as capital, not ordinary revenue.
+
+This prevents resource dependency.
 
 ---
 
@@ -459,6 +641,24 @@ Fraudulent price manipulation is prohibited.
 
 ---
 
+# ARTICLE XI-A — COMPETITION AND ANTI-MONOPOLY
+
+## Section 1. Competitive Markets
+
+The Republic shall preserve open and competitive markets.
+
+No person, corporation, or institution shall obtain undue economic dominance harmful to the public interest.
+
+---
+
+## Section 2. Anti-Capture Principle
+
+Economic power shall not be permitted to capture political power.
+
+Political power shall not be permitted to capture economic power.
+
+---
+
 # ARTICLE XII — TAXATION
 
 ## Foundational Principle
@@ -485,6 +685,24 @@ Over-taxation of productive labor and productive investment shall be avoided.
 ## Essential Goods
 
 Food, healthcare, education, and basic necessities may receive preferential treatment.
+
+---
+
+# ARTICLE XII-A — LAND AND HOUSING STEWARDSHIP
+
+## Section 1. Housing Stability
+
+The Republic shall promote widespread access to stable, affordable housing.
+
+Housing shall primarily serve habitation rather than speculation.
+
+---
+
+## Section 2. Land Value Stewardship
+
+Public policy may recover part of publicly created land value increases for public benefit.
+
+This discourages speculation while preserving property rights.
 
 ---
 
@@ -539,47 +757,80 @@ Citizens retain rights to review and challenge records.
 
 ---
 
-# ARTICLE XV — SECURITY AND RESILIENCE
+# ARTICLE XV — TOTAL RESILIENCE AND NATIONAL PREPAREDNESS
 
-National security includes:
+## Section 1. Whole-of-Society Resilience
+
+National defense includes:
 
 - Territorial defense
     
 - Maritime security
-    
-- Food security
-    
-- Water security
-    
-- Energy security
-    
-- Information security
-    
-- Disaster resilience
-    
 
-The armed forces remain subordinate to constitutional authority.
+- Civil defense
+
+- Infrastructure resilience
+
+- Information resilience
+
+- Economic resilience
+
+- Community preparedness
+
+---
+
+## Section 2. Strategic Reserves
+
+The Republic shall maintain reserves of:
+
+- Food
+
+- Water
+
+- Energy
+
+- Medical supplies
+
+- Communications capability
+
+Preparedness is a permanent responsibility.
 
 ---
 
 # ARTICLE XVI — EDUCATION
 
+## Section 1. Civic Competence
+
 Education shall cultivate:
 
 - Character
+
+- Critical thinking
     
 - Competence
     
 - Civic responsibility
     
+- Media literacy
+
 - Scientific literacy
     
 - Economic literacy
     
+- Constitutional literacy
+
 - National cohesion
-    
+
 
 The objective of education is capable citizenship.
+
+---
+
+## Section 2. Lifelong Learning
+
+The Republic shall promote continuous learning throughout life.
+
+Citizens must be capable of adapting to changing economic and technological conditions.
 
 ---
 
@@ -608,6 +859,73 @@ No amendment may abolish:
     
 
 ---
+
+# ARTICLE XVIII — REGULATORY SIMPLICITY
+
+## Section 1. Simplicity Principle
+
+Government shall pursue simplicity whenever possible.
+
+Regulations shall be:
+
+- Understandable
+
+- Measurable
+
+- Enforceable
+
+- Necessary
+
+Complexity without justification is prohibited.
+
+## Section 2. Regulatory Review
+
+Regulations shall undergo periodic review.
+
+Obsolete or ineffective rules shall be removed.
+
+---
+
+# ARTICLE XIX — NATIONAL DATA, KNOWLEDGE, AND SCIENCE
+
+## Section 1. Scientific Capacity
+
+The Republic shall cultivate scientific, technological, and analytical capability as strategic national assets.
+
+## Section 2. National Knowledge Infrastructure
+
+The Republic shall maintain:
+
+- Research institutions
+
+- National statistics systems
+
+- Data standards
+
+- Public knowledge repositories
+
+Evidence shall remain available for public scrutiny.
+
+---
+
+# ARTICLE XX — CONSTITUTIONAL CULTURE
+
+## Section 1. Constitutional Duty
+
+Every institution shall uphold not only the letter but the spirit of this Constitution.
+
+## Section 2. Culture of Service
+
+Public authority is stewardship.
+
+Leadership is a responsibility.
+
+Competence is an obligation.
+
+Trust is earned.
+
+---
+
 
 # CONSTITUTIONAL PHILOSOPHY
 
