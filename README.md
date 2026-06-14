@@ -152,6 +152,100 @@ Programs failing to achieve their stated objectives shall be revised, replaced, 
 
 ---
 
+# ARTICLE I-D — FISCAL SUBSIDIARITY
+
+## Section 1. Principle
+
+Public resources shall be administered as close as practicable to the citizens who generated them.
+
+The Republic recognizes that local communities possess superior knowledge of local needs and conditions.
+
+## Section 2. Local Revenue Retention
+
+Unless otherwise provided by constitutional law:
+
+- Seventy percent (70%) of tax revenues shall remain within the jurisdiction where they are generated.
+
+- Thirty percent (30%) shall be allocated to regional and national responsibilities.
+
+Revenue-sharing formulas shall remain transparent and publicly auditable.
+
+## Section 3. Equalization
+
+The Republic shall maintain an Equalization Fund to ensure that less-developed jurisdictions maintain access to essential public services.
+
+Equalization shall support capability without creating dependency.
+
+## Section 4. Fiscal Accountability
+
+Jurisdictions retaining revenue shall remain fully accountable for:
+
+- Budget transparency
+
+- Performance outcomes
+
+- Financial sustainability
+
+No jurisdiction may demand autonomy without corresponding responsibility.
+
+---
+
+# ARTICLE I-E — OPEN GOVERNMENT BY DEFAULT
+
+## Section 1. Public Information Right
+
+Citizens possess a constitutional right to inspect the activities of government.
+
+Transparency is presumed.
+
+Secrecy is exceptional.
+
+## Section 2. Open Records
+
+Government records shall be public by default, including:
+
+- Internal memoranda
+
+- Internal reports
+
+- Administrative correspondence
+
+- Policy drafts
+
+- Budget deliberations
+
+- Official communications
+
+No Freedom of Information request shall be required.
+
+## Section 3. Limited Exceptions
+
+Information may be temporarily restricted only for:
+
+- Active military operations
+
+- Intelligence activities
+
+- Critical cybersecurity matters
+
+- Personal privacy
+
+- Ongoing criminal investigations
+
+Restrictions shall be narrowly construed.
+
+## Section 4. Expiration
+
+Classified information shall automatically become public after constitutionally defined periods unless renewed through independent review.
+
+## Section 5. Principle
+
+Citizens are the owners of government information.
+
+Public officials are temporary custodians.
+
+---
+
 # ARTICLE II — CITIZENSHIP
 
 Citizens possess:
@@ -350,6 +444,51 @@ Pillar Representatives must demonstrate:
     
 - Professional achievement
     
+---
+
+# ARTICLE V-A — COMMITTEE FOR THE FUTURE
+
+## Section 1. Establishment
+
+The Chamber of National Pillars shall maintain a permanent Committee for the Future.
+
+## Section 2. Mandate
+
+The Committee shall evaluate:
+
+- Emerging technologies
+
+- Artificial intelligence
+
+- Biotechnology
+
+- Energy transitions
+
+- Demographic changes
+
+- Climate shifts
+
+- Strategic geopolitical developments
+
+## Section 3. Planning Horizon
+
+The Committee shall examine impacts over:
+
+- 20 years
+
+- 30 years
+
+- 50 years
+
+## Section 4. Independence
+
+The Committee shall not manage line-item budgets.
+
+Its purpose is foresight rather than administration.
+
+## Section 5. Future Impact Reviews
+
+Major legislation shall include an assessment of long-term effects prepared in consultation with the Committee.
 
 ---
 
@@ -447,6 +586,40 @@ National referendums may be required for:
 - Significant structural reforms
 
 Referendums shall inform rather than replace representative government.
+
+---
+
+# ARTICLE VI-B — CITIZEN VETO
+
+## Section 1. Bottom-Up Legislative Review
+
+Citizens possess the right to challenge legislation enacted by the Chamber of Communities and Chamber of National Pillars.
+
+## Section 2. Veto Threshold
+
+When verified opposition reaches thirty percent (30%) of eligible voters within a prescribed period following enactment:
+
+A binding national vote shall be held.
+
+## Section 3. Outcome
+
+If a majority votes against the legislation:
+
+The law shall be repealed or prevented from taking effect.
+
+## Section 4. Exceptions
+
+The following shall be exempt except under special constitutional procedures:
+
+- Immediate national defense measures
+
+- Active military operations
+
+- Emergency disaster actions with expiration dates
+
+## Section 5. Purpose
+
+The Citizen Veto exists to protect society against elite consensus that lacks public legitimacy.
 
 ---
 
