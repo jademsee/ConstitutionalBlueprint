@@ -1227,7 +1227,725 @@ Trust is earned.
 
 ---
 
+# ARTICLE XXI — TERRITORY AND NATIONAL DOMAIN
+
+## Section 1. National Territory
+
+The Republic consists of all lands, waters, airspace, seabed, subsoil, islands, archipelagic waters, territorial seas, exclusive economic zones, and other domains recognized under constitutional and international law.
+
+## Section 2. National Domains
+
+The Republic exercises stewardship and jurisdiction over:
+
+- Land domain
+
+- Maritime domain
+
+- Air domain
+
+- Cyber domain
+
+- Electromagnetic spectrum
+
+- Space-based national assets
+
+## Section 3. Archipelagic Principle
+
+The seas connecting the Republic form part of its national foundation.
+
+The maritime domain shall be treated as a strategic asset equal in importance to land territory.
+
+## Section 4. Territorial Integrity
+
+No territory, sovereign right, or strategic domain shall be surrendered except through constitutional procedures and citizen ratification.
+
+---
+
+# ARTICLE XXII — ARMED FORCES OF THE REPUBLIC
+
+## Section 1. Purpose
+
+The Armed Forces exist to:
+
+- Defend sovereignty
+
+- Protect constitutional order
+
+- Preserve territorial integrity
+
+- Support civil defense
+
+- Assist during national emergencies
+
+The Armed Forces serve the Constitution and the Republic, not any individual, party, or faction.
+
+## Section 2. Civilian Authority
+
+Civilian constitutional authority shall remain supreme over all military institutions.
+
+## Section 3. Political Neutrality
+
+Members of the Armed Forces shall not participate in partisan political activities while in active service.
+
+## Section 4. Strategic Doctrine
+
+The Republic shall maintain defense capabilities sufficient to:
+
+- Deter aggression
+
+- Deny coercion
+
+- Protect maritime access
+
+- Preserve continuity of government
+
+## Section 5. National Defense Readiness
+
+Defense preparedness shall be maintained continuously during peace and crisis.
+
+---
+
+# ARTICLE XXIII — CIVIL DEFENSE AND NATIONAL RESILIENCE
+
+## Section 1. Whole-of-Society Resilience
+
+National resilience is a shared responsibility of government, institutions, communities, and citizens.
+
+## Section 2. Civil Defense System
+
+The Republic shall maintain a permanent Civil Defense System capable of responding to:
+
+- Natural disasters
+
+- Pandemics
+
+- Infrastructure failures
+
+- Cyber incidents
+
+- National emergencies
+
+## Section 3. Strategic Reserves
+
+The Republic shall maintain reserves of:
+
+- Food
+
+- Water
+
+- Energy
+
+- Medical supplies
+
+- Communications equipment
+
+Reserve levels shall be sufficient to ensure national continuity during prolonged disruptions.
+
+## Section 4. Community Preparedness
+
+Every jurisdiction shall maintain:
+
+- Emergency response plans
+
+- Evacuation systems
+
+- Communication protocols
+
+- Continuity arrangements
+
+---
+
+# ARTICLE XXIV — DISASTER GOVERNANCE
+
+
+## Section 1. Disaster Preparedness
+
+Disasters shall be anticipated, planned for, and continuously prepared against.
+
+## Section 2. Automatic Response Systems
+
+The law shall establish objective emergency triggers that automatically activate:
+
+- Resource mobilization
+
+- Emergency funding
+
+- Intergovernmental coordination
+
+- Public warning systems
+
+The protection of life shall not depend upon political discretion.
+
+## Section 3. Recovery and Reconstruction
+
+Recovery efforts shall prioritize:
+
+- Restoration of essential services
+
+- Community resilience
+
+- Long-term risk reduction
+
+---
+
+# ARTICLE XXV — JUSTICE, PUBLIC SAFETY, AND CRIME
+
+## Section 1. Principle
+
+Justice shall be:
+
+- Fair
+
+- Swift
+
+- Transparent
+
+- Proportional
+
+## Section 2. Public Safety
+
+The Republic shall maintain professional law enforcement institutions that respect constitutional rights while protecting public safety.
+
+## Section 3. Organized Crime
+
+Organized criminal enterprises constitute a threat to national sovereignty and public welfare.
+
+The Republic shall maintain specialized institutions to combat:
+
+- Human trafficking
+
+- Smuggling
+
+- Corruption networks
+
+- Financial crime
+
+- Transnational criminal organizations
+
+## Section 4. Due Process
+
+No person shall be deprived of liberty, property, or rights without due process of law.
+
+## Section 5. Rehabilitation
+
+Where compatible with public safety, justice shall seek rehabilitation and reintegration.
+
+---
+
+# ARTICLE XXVI — MEDIA, INFORMATION, AND PUBLIC DISCOURSE
+
+## Section 1. Freedom of Expression
+
+Freedom of expression, inquiry, publication, and peaceful criticism shall be protected.
+
+## Section 2. Independent Journalism
+
+The Republic shall protect independent journalism as an essential constitutional institution.
+
+## Section 3. Transparency of Influence
+
+Major media organizations and communication platforms shall disclose:
+
+- Ownership
+
+- Significant funding sources
+
+- Political advertising
+
+- Material conflicts of interest
+
+## Section 4. Information Integrity
+
+The Republic may promote media literacy, public education, and transparency measures to strengthen informed public discourse.
+
+No authority may establish official truth or suppress lawful criticism.
+
+## Section 5. Public Information Service
+
+The Republic shall maintain a politically independent public information service dedicated to explaining:
+
+- Laws
+
+- Policies
+
+- Budgets
+
+- Public programs
+
+in clear and accessible language.
+
+---
+
+# ARTICLE XXVII — FOREIGN RELATIONS
+
+## Section 1. Principle
+
+The Republic shall pursue peaceful, mutually beneficial relations with other nations while preserving sovereignty and strategic independence.
+
+## Section 2. Strategic Autonomy
+
+No foreign power shall exercise authority over the constitutional institutions of the Republic.
+
+## Section 3. International Cooperation
+
+The Republic may participate in international agreements that advance:
+
+- Peace
+
+- Prosperity
+
+- Science
+
+- Security
+
+- Environmental stewardship
+
+provided such agreements remain consistent with constitutional sovereignty.
+
+---
+
+# ARTICLE XXVIII — FAMILY, COMMUNITY, AND SOCIAL COHESION
+
+## Section 1. Social Foundations
+
+The Republic recognizes families, communities, and voluntary associations as foundational institutions of society.
+
+## Section 2. Child Development
+
+Public policy shall promote the healthy development, education, safety, and opportunity of every child.
+
+## Section 3. Community Life
+
+The Republic shall encourage civic participation, mutual aid, and community cooperation.
+
+## Section 4. Elder Stewardship
+
+Public institutions shall respect and support the dignity and well-being of older citizens.
+
+---
+
+# ARTICLE XXIX — CULTURAL HERITAGE AND NATIONAL IDENTITY
+
+## Section 1. Shared Civic Identity
+
+The Republic shall cultivate a shared constitutional identity while respecting cultural diversity.
+
+## Section 2. Heritage Preservation
+
+The Republic shall preserve:
+
+- Historical sites
+
+- Indigenous knowledge
+
+- Languages
+
+- Traditions
+
+- Cultural works
+
+for future generations.
+
+## Section 3. National Memory
+
+Historical preservation shall prioritize accuracy, openness, and learning.
+
+---
+
+# ARTICLE XXX — SCIENCE, INNOVATION, AND STRATEGIC CAPABILITY
+
+## Section 1. Scientific Development
+
+Scientific and technological capability constitute strategic national assets.
+
+## Section 2. National Priorities
+
+The Republic shall encourage advancement in:
+
+- Artificial intelligence
+
+- Biotechnology
+
+- Maritime technology
+
+- Energy systems
+
+- Advanced manufacturing
+
+- Communications
+
+- Space systems
+
+## Section 3. Research Institutions
+
+The Republic shall maintain institutions dedicated to research, innovation, and long-term national capability development.
+
+---
+
+# ARTICLE XXXI — CONSTITUTIONAL EMERGENCIES
+
+## Section 1. Emergency Powers
+
+Emergency powers may be exercised only when necessary to address:
+
+- Armed attack
+
+- Catastrophic disaster
+
+- National collapse of essential services
+
+- Section 2. Limitations
+
+Emergency powers shall:
+
+- Remain temporary
+
+- Remain proportional
+
+- Remain reviewable by the judiciary
+
+## Section 3. Rights Protection
+
+Emergency declarations shall not permanently suspend constitutional rights.
+
+## Section 4. Automatic Expiration
+
+Emergency authorities shall expire unless renewed through constitutional procedures.
+
+---
+
+# ARTICLE XXXII — CONSTITUTIONAL INTEGRITY
+
+## Section 1. Constitutional Preservation
+
+No amendment may abolish:
+
+- Rule of law
+
+- Democratic accountability
+
+- Due process
+
+- Equal protection
+
+- Judicial independence
+
+- Freedom of conscience
+
+- Freedom of expression
+
+- Citizen participation rights
+
+## Section 2. Constitutional Review
+
+Proposed constitutional amendments shall undergo:
+
+- Public review
+
+- Judicial review
+
+- Citizen ratification
+
+---
+
+# ARTICLE XXXIII — ANTI-CAPTURE DOCTRINE
+
+## Section 1. Principle
+
+No individual, family, corporation, profession, political faction, military organization, media institution, or public office shall accumulate sufficient power to place itself above constitutional accountability.
+
+## Section 2. Institutional Balance
+
+Constitutional institutions shall be designed to:
+
+- Distribute power
+
+- Prevent concentration
+
+- Promote transparency
+
+- Encourage competition
+
+- Preserve accountability
+
+## Section 3. Anti-Dynastic Governance
+
+Public office shall not become hereditary.
+
+The law shall establish measures to prevent excessive concentration of political authority within families.
+
+## Section 4. Economic Capture
+
+The Republic shall prevent the capture of public institutions by concentrated economic interests.
+
+## Section 5. Regulatory Capture
+
+Independent oversight mechanisms shall continuously monitor and prevent institutional capture.
+
+---
+
+# ARTICLE XXXIV — NATIONAL PERFORMANCE AND ACCOUNTABILITY
+
+## Section 1. National Scorecard
+
+The Republic shall maintain a public National Performance Framework measuring:
+
+- Economic prosperity
+- Educational attainment
+- Public health
+- Security
+- Environmental stewardship
+- Infrastructure quality
+- Social trust
+- Government effectiveness
+- Disaster resilience
+
+## Section 2. Annual Stewardship Report
+
+The National Steward shall present an annual report evaluating national performance against constitutional objectives.
+
+## Section 3. Public Accessibility
+
+Performance data shall be publicly accessible, machine-readable, and independently auditable.
+
+---
+
+# ARTICLE XXXV — NATIONAL SERVICE
+
+## Section 1. Civic Contribution
+
+Citizens may be called upon to contribute to the Republic through forms of national service established by law.
+
+## Section 2. Service Pathways
+
+National service may include:
+
+- Civil defense
+
+- Disaster response
+
+- Environmental restoration
+
+- Community service
+
+- Public health support
+
+- National defense
+
+## Section 3. Principle
+
+Service shall strengthen citizenship, capability, and national cohesion.
+
+---
+
+# ARTICLE XXXVI — ETHICS OF PUBLIC STEWARDSHIP
+
+## Section 1. Stewardship Duty
+
+Every public official owes a duty of:
+
+- Integrity
+
+- Competence
+
+- Impartiality
+
+- Transparency
+
+- Service
+
+## Section 2. Fiduciary Responsibility
+
+Public resources shall be managed solely for public benefit.
+
+## Section 3. Truthfulness
+
+Public officials shall communicate truthfully regarding public affairs.
+
+Knowingly misleading the public constitutes a violation of constitutional duty.
+
+## Section 4. Accountability
+
+No public office shall exempt its holder from constitutional accountability.
+
+---
+
+# ARTICLE XXXVII — CENTRAL MONETARY AUTHORITY
+
+## Section 1. Constitutional Status
+
+There shall be an independent Central Monetary Authority of the Republic (CMAR).
+
+It shall not be subject to political direction in the execution of its monetary mandate.
+
+Its independence is a constitutional safeguard of economic stability.
+
+## Section 2. Mandate
+
+The CMAR shall maintain:
+
+- price stability
+
+- financial system stability
+
+- currency integrity
+
+- sustainable credit expansion
+
+- resilience against financial shocks
+
+The CMAR shall not pursue political objectives unrelated to monetary stability.
+
+## Section 3. Institutional Independence
+
+The CMAR shall be operationally independent from:
+
+- the National Steward
+
+- the Legislature
+
+- regional governance bodies
+
+However, it shall remain constitutionally accountable through:
+
+- public reporting
+
+- judicial review of procedure
+
+- legislative oversight of mandate (not operations)
+
+## Section 4. Governance Structure
+
+The governing board shall be composed of:
+
+- monetary economists
+
+- financial system experts
+
+- risk specialists
+
+- institutional stability analysts
+
+Appointments shall follow meritocratic and non-partisan criteria, verified through the Character and Competence Commission.
+
+## Section 5. Monetary Policy Instruments
+
+The CMAR shall regulate:
+
+- policy interest rates
+
+- reserve requirements (if applicable)
+
+- liquidity provisioning
+
+- emergency lending facilities
+
+- systemic risk interventions
+
+All interventions must be justified in public post-action reports.
+
+## Section 6. Currency Integrity
+
+The Republic shall maintain a sovereign currency system.
+
+The CMAR shall ensure that:
+
+- currency issuance is controlled and transparent
+
+- inflation remains within constitutionally defined stability bands
+
+- speculative destabilization is monitored and mitigated
+
+## Section 7. Crisis Powers
+
+In financial emergencies, the CMAR may:
+
+- provide emergency liquidity
+
+- stabilize financial institutions
+
+- coordinate systemic risk responses
+
+Emergency actions must be:
+
+- time-bound
+
+- publicly disclosed after stabilization
+
+- subject to post-event review
+
+## Section 8. Prohibition of Fiscal Dominance
+
+No political institution shall directly compel monetary financing of:
+
+- routine government spending
+
+- political programs
+
+- non-emergency fiscal deficits
+
+Monetary financing shall only occur under constitutionally defined crisis conditions.
+
+## Section 9. Financial System Oversight
+
+The CMAR shall supervise systemic financial stability, including:
+
+- banking system resilience
+
+- payment systems integrity
+
+- liquidity risk monitoring
+
+- cross-institution exposure risk
+
+## Section 10. Central Bank Digital Infrastructure
+
+The CMAR may operate national payment and settlement infrastructure, including:
+
+- real-time payments systems
+
+- digital currency infrastructure (if adopted)
+
+- interbank clearing systems
+
+All systems shall prioritize:
+
+- privacy protections
+- resilience
+- anti-fraud safeguards
+- systemic transparency
+
+## Section 11. Transparency and Data Publication
+
+The CMAR shall publish:
+
+- monetary policy reports
+
+- inflation analysis
+
+- financial stability reports
+
+- systemic risk assessments
+
+Data shall be open, machine-readable, and independently auditable.
+
+## Section 12. Anti-Capture Safeguard
+
+The CMAR shall be protected from:
+
+- political appointment stacking
+
+- private financial institution capture
+
+- lobbying influence over monetary decisions
+
+Any proven institutional capture attempt constitutes a constitutional emergency.
+
+---
+
 
 # CONSTITUTIONAL PHILOSOPHY
 
-> **The Republic is a meritocratic, decentralized, archipelagic commonwealth in which authority flows upward from demonstrated character, competence, and service, while accountability flows downward to every citizen.**
+> **The Republic is a meritocratic, decentralized, archipelagic commonwealth in which authority flows upward from demonstrated character, competence, and service, while accountability flows downward to every citizen.
+>
+> The Republic exists not merely to govern the present, but to steward the future. Authority is granted only in trust, exercised only in service, constrained by law, informed by evidence, accountable to citizens, and directed toward the flourishing of present and future generations.**
